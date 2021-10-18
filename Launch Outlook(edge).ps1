@@ -1,0 +1,1 @@
+&"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --app="https://outlook.office365.com.mcas.ms/mail/inbox"

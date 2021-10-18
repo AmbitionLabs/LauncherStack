@@ -1,0 +1,1 @@
+&"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --app="https://teams.microsoft.com.mcas.ms/_#/calendarv2"
