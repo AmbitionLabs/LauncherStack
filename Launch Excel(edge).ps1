@@ -1,0 +1,1 @@
+&"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --app="https://www.office.com/launch/excel?ui=en-US&rs=US&auth=1"
