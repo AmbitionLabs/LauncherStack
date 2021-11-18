@@ -21,3 +21,11 @@ __________________
 #### the spotify launcher delivers you a resizable, ctrl+f-able spotify app without the need for a spotify installation:
 
 ![image](https://user-images.githubusercontent.com/43890114/142438545-d08e169f-3d4a-48ee-92db-bdbf6bcd03a9.png)
+
+
+
+__________________
+
+## Acknowledgements
+
+- The executables were compiled using MScholtes's PS2EXE compiler: https://github.com/MScholtes/PS2EXE
