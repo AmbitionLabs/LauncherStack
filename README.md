@@ -29,4 +29,12 @@ __________________
 
 - The executables were compiled using MScholtes's PS2EXE compiler: https://github.com/MScholtes/PS2EXE
 
+__________________
+
+## DIY
+
 If there's a web site you'd like to appify that you don't see on the list, just replace the URL in one of the .ps1 files with the desired URL; compile with PS2EXE if desired.  
+
+## Contribute 
+
+If you'd like to add a launcher to LauncherStack's list make a pull request including your .ps1 file, we will compile. 
