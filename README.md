@@ -17,6 +17,7 @@ Any application with a web interface can be replaced up using this method and an
 
 __________________
 
-### example | the spotify launcher delivers you a resizable ctrl+f-able spotify app without the need for a spotify installation:
+### example |
+### the spotify launcher delivers you a resizable ctrl+f-able spotify app without the need for a spotify installation:
 
 ![image](https://user-images.githubusercontent.com/43890114/142438545-d08e169f-3d4a-48ee-92db-bdbf6bcd03a9.png)
