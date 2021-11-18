@@ -10,9 +10,8 @@ Any application with a web interface can be replaced up using this method and an
 ## Useful for:
 - appifying favorite web services/pages with a clickable iconized .exe
 - eliminating maintenance overhead of a local app in favor of a web version with minimal change in user experience. 
-- preventing the need to install apps that have a web version thus freeing the user experience from cluttersome apps
 - replacing or working around broken or misbehaving windows installed apps by leveraging their web-app feature
-- building a clean and custom windows user interface (especially when paired with auto window placement and launcher apps)
+- building a clean and custom windows user interface (especially when paired with ui and and launcher apps)
 - giving business users an app they want.. without giving a business users an app they want 
 
 __________________
@@ -29,3 +28,5 @@ __________________
 ## Acknowledgements
 
 - The executables were compiled using MScholtes's PS2EXE compiler: https://github.com/MScholtes/PS2EXE
+
+If there's a web site you'd like to appify that you don't see on the list, just replace the URL in one of the .ps1 files with the desired URL; compile with PS2EXE if desired.  
