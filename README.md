@@ -3,7 +3,7 @@ Collection of simple web app launchers
 
 ## Overview
 
-Lancherstack is a collection of launchers that pull up popular sites as a app using edge's --app flag.  
+Lancherstack is a collection of launchers that pull up popular sites as an app using edge's --app flag.  
  
 Any site can be 'appified' as long as you have Edge browser installed,
  thus any application that has a web version can be replaced up using this method.
