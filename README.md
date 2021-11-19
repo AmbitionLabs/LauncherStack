@@ -11,7 +11,7 @@ Any site can be 'appified' as long as you have Edge browser installed,
 ## Useful for:
 - appifying favorite web services/pages with a clickable iconized .exe
 - eliminating maintenance overhead of a local app in favor of a web version with minimal change in user experience. 
-- replacing or working around broken or misbehaving windows installed apps by leveraging their web-based cousins
+- replacing broken/misbehaving windows installed apps by leveraging their web-based cousins
 - building a clean and custom windows user interface (especially when paired with ui and and launcher apps)
 - giving business users an app they want.. without giving a business users an app they want 
 
